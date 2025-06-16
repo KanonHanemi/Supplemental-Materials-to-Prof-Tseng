@@ -1,0 +1,383 @@
+﻿  CppCLR_WinFormsProject.cpp
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(34,13): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(35,13): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(36,19): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(61,25): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(62,23): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(753,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(756,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(772,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(775,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(856,15): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1061,49): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1068,51): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1074,51): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1087,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1088,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1094,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1095,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1108,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1109,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1110,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1116,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1117,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1119,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1125,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1126,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1128,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1129,53): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1308,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1320,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1334,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1349,53): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/CppCLR_WinFormsProject.cpp')
+  
+  battle.cpp
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(34,13): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(35,13): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(36,19): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(61,25): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(62,23): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(753,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(756,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(772,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(775,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(856,15): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1061,49): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1068,51): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1074,51): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1087,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1088,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1094,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1095,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1108,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1109,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1110,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1116,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1117,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1119,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1125,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1126,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1128,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1129,53): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1308,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1320,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1334,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1349,53): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle.cpp')
+  
+  battle_prepare.cpp
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(34,13): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(35,13): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(36,19): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(61,25): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(62,23): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(753,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(756,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(772,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(775,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(856,15): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1061,49): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1068,51): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1074,51): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1087,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1088,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1094,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1095,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1108,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1109,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1110,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1116,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1117,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1119,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1125,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1126,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1128,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1129,53): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1308,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1320,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1334,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1349,53): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/battle_prepare.cpp')
+  
+  main_scene.cpp
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(34,13): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(35,13): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(36,19): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(61,25): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\data_format.h(62,23): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(753,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(756,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(772,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(775,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(856,15): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1061,49): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1068,51): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1074,51): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1087,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1088,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1094,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1095,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1108,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1109,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1110,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1116,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1117,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1119,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1125,28): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1126,29): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1128,35): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1129,53): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1308,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1320,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1334,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1349,53): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  (編譯來源檔案 '/main_scene.cpp')
+  
+  正在產生程式碼...
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1187): warning C4715: 'FinalProject::battle::StageIsClear': 不是所有控制路徑都傳回值
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1187): warning C4715: 'FinalProject::battle::StageIsClear': 不是所有控制路徑都傳回值
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1187): warning C4715: 'FinalProject::battle::StageIsClear': 不是所有控制路徑都傳回值
+A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\battle.h(1187): warning C4715: 'FinalProject::battle::StageIsClear': 不是所有控制路徑都傳回值
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  FinalProject.vcxproj -> A:\Desktop\Programming\C++\Computer Programming and Application\FinalProject\x64\Debug\FinalProject.exe
